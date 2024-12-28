@@ -1,16 +1,25 @@
-## Hi there 👋
+Olá! Eu sou Felipe Rodrigues dos Santos 👋
+Sou um estudante de Análise e Desenvolvimento de Sistemas, em transição de carreira para a área de TI, com foco no aprendizado contínuo e na aplicação prática de conhecimentos em programação e desenvolvimento de sistemas.
 
-<!--
-**FelipeRodrigues193/FelipeRodrigues193** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Sobre mim
+📍 Residente em Recife - PE.
 
-Here are some ideas to get you started:
+🎯 Busco oportunidades para contribuir com projetos e aprender mais sobre desenvolvimento de software e suporte técnico.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 Apaixonado por resolver problemas, aprender novas tecnologias e colaborar em equipe.
+
+💻 Habilidades Técnicas
+
+Linguagens de Programação: Python, Java (básico) e PHP (familiaridade).
+
+Ferramentas: Pacote Office, Excel (intermediário).
+
+Inglês: Básico, com foco em leitura técnica.
+
+Cursando: Tecnólogo em Análise e Desenvolvimento de Sistemas (UNINASSAU, previsão de conclusão: 2027).
+
+
+Estou em busca de desafios para aplicar e aprimorar minhas habilidades em lógica de programação e desenvolvimento de sistemas. Fique à vontade para conferir meus repositórios ou sugerir colaborações.
+
+🤝 Vamos Conectar?
+Email: rodriguesfelipe18@gmail.com
